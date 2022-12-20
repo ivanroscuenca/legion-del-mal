@@ -24,3 +24,4 @@
 22. Deadshot
 23. La cosa
 24. Messi
+25. Piqué
